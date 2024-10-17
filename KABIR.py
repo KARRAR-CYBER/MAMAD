@@ -35,7 +35,7 @@ print('')
 print('')
 from colorama import Fore,init
 init()
-print(Fore.BLUE+"   𝗪𝗜-𝗙𝗜 𝗛𝗔𝗖𝗞𝗜𝗡𝗚")
+print(Fore.BLUE+"   DOS")
 
 
 
